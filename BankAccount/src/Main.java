@@ -1,5 +1,7 @@
-import javax.swing.*;
+import java.util.ArrayList;
+import java.util.Scanner;
 
+public class Main {
 private static class Account {
     private int accountId;
     private static int nextId = 1;
@@ -125,4 +127,5 @@ public static void main(String[] args) {
         }
         System.out.println();
     }
+}
 }
