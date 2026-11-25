@@ -1,6 +1,12 @@
 Console version of a banking system
+
 Features: 
- - Account Registration, 
- - Deposits, Withdrawals, 
- - Interests (with time skip), 
- - Display Transaction History Ledger
+ - Account registration, 
+ - Deposits, 
+ - Withdrawals, 
+ - Interests (with time skip system), 
+ - Display transaction history ledger
+
+Example:
+
+![BankAccount program's choice selection image](BankAccount.png)
